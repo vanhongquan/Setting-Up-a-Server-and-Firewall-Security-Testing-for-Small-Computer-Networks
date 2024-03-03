@@ -1,1 +1,6 @@
+Choose the appropriate Linux operating system: Ubuntu Server 22.04 x64.
+Install the operating system on Vietnix's VPS server
+Set a strong root password and generate SSH keys if needed
 
+Configure basic services such as a web server, database server, and file server
+Web Server Apache
